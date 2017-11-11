@@ -1,0 +1,27 @@
+body  {
+	background-color: 43157F;
+	text-align: center;
+	font-family: georgia 
+
+#slogan {
+	font-style: italic;
+	font-size: 22px;
+	color: 0EE2BC;
+}	 
+
+h1 {
+	color: FF23CO;
+	font-size: 30px;
+}
+
+p { 
+	color: FF82CA;
+	font-size: 20px;
+}
+
+ul {
+	color: 8B42FF;
+	font-size: 18px;
+	text-align: center;
+    list-style-type: none;
+}
